@@ -1,0 +1,41 @@
+form {
+    /* height:700px; */
+    margin-top: 30px;
+    
+}
+
+.cross{
+    /* float:right; */
+    /* margin-top: 10px; */
+    /* overflow: hidden; */
+    height: 17px;
+    /* width: 10px; */
+    cursor: pointer;
+    /* border: 1px solid black; */
+    /* border-radius: 5px; */
+}
+
+.errorMsg{
+    font-size: small;
+}
+output{
+    width: 100px;
+    display: flex;
+}
+img{
+    height: 55px;
+    width: 55px;
+    margin: auto;
+}
+
+input , button{
+    margin-top: 10px;
+}
+
+button{
+    float: right;
+}
+
+.from-heading{
+    text-align: center;
+}
